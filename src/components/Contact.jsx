@@ -117,7 +117,6 @@ const Contact = () => {
               border-none font-medium resize-none"
             />
           </label>
-
           <button
             type="submit"
             className="live-demo flex justify-center sm:gap-4 
